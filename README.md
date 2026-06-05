@@ -47,7 +47,7 @@
 ---
 
 ### 🌐 Onde me encontrar
-- 🌍 Linkedin: [sandrogiacomozzi](www.linkedin.com/in/sandrogiacomozzi)
+- 🌍 Linkedin: [sandrogiacomozzi](https://www.linkedin.com/in/sandrogiacomozzi)
 - 🌍 Site: [guiadojava.com.br](https://www.guiadojava.com.br/)
 - 🐦 Twitter/X: [@sandrogiacom](https://twitter.com/sandrogiacom)
 - 📂 GitHub: [sandrogiacom](https://github.com/sandrogiacom)
