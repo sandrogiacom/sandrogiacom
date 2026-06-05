@@ -19,13 +19,13 @@
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Linguagem** | Java 17/21/25, Kotlin, Shell/Bash |
+| **Linguagem** | Java, Kotlin, Javascript, Shell/Bash |
 | **Cloud & Orquestração** | Kubernetes, Docker, AWS |
 | **Frameworks** | Spring Boot, Quarkus |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, DynamoDB, Oracle, SQL Server |
 | **Message Brokers** | RabbitMQ, Apache Kafka, SQS |
 | **Testes** | JUnit, Kotest, Testcontainers, Mockito, Mockk |
-| **Observabilidade** | Prometheus, Grafana, ELK Stack |
+| **Observabilidade** | Prometheus, Grafana, ELK Stack, Newrelic |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Ferramentas** | Git, Linux, VS Code, IntelliJ IDEA |
 
