@@ -11,7 +11,7 @@
 - Especialista em **Microsserviços** e arquitetura cloud-native
 - Contribuidor open source e educador em [Guia do Java](https://www.guiadojava.com.br/)
 - Organizador na comunidade **[jornada-java](https://github.com/jornada-java)**
-- Compartilho conhecimento sobre Java, DevOps e boas práticas de desenvolvimento
+- Compartilho conhecimento sobre Java, DevOps e boas práticas de engenharia de software
 
 ---
 
@@ -22,9 +22,9 @@
 | **Linguagem** | Java 17/21/25, Kotlin, Shell/Bash |
 | **Cloud & Orquestração** | Kubernetes, Docker, AWS |
 | **Frameworks** | Spring Boot, Quarkus |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB |
-| **Message Brokers** | RabbitMQ, Apache Kafka |
-| **Testes** | JUnit, Testcontainers, Mockito |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, DynamoDB, Oracle, SQL Server |
+| **Message Brokers** | RabbitMQ, Apache Kafka, SQS |
+| **Testes** | JUnit, Kotest, Testcontainers, Mockito, Mockk |
 | **Observabilidade** | Prometheus, Grafana, ELK Stack |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Ferramentas** | Git, Linux, VS Code, IntelliJ IDEA |
@@ -79,7 +79,7 @@ Venho contribuindo ativamente para a comunidade Java através de:
 
 ### 💬 Vamos Conversar!
 
-Se você está interessado em **Java**, **Kubernetes**, **DevOps** ou qualquer outro tópico em desenvolvimento de software, sinta-se livre para:
+Se você está interessado em **Java**, **Kotlin**, **Kubernetes**, **DevOps** ou qualquer outro tópico em desenvolvimento de software, sinta-se livre para:
 
 - 📧 Conectar no [LinkedIn](https://www.linkedin.com/in/sandrogiacomozzi)
 - 💻 Abrir uma issue em um dos meus [projetos](https://github.com/sandrogiacom?tab=repositories)
